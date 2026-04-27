@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwasegun
 
-## 💻 Aspiring Software Engineer | Problem Solver | Tech Enthusiast
+## 💻 Software Engineer | Problem Solver | Tech Enthusiast
 
 Welcome to my GitHub profile!
 
